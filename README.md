@@ -42,17 +42,7 @@ In our use case, we use gmplot (a Google Maps plotting library) with a default l
 A. Install the required libraries
 <b>Required libraries:</b>
 
-pandas
-
-matplotlib
-
-networkx
-
-re
-
-math
-
-gmplot 
+pandas | matplotlib | networkx | re | math | gmplot 
 
 B. The notebooks contain the entire pipeline for running the algorithm, visualizing the fingerprints on the map, and exporting the coordinates and html map. 
 1. To view the run the coordinates, ensure there is a dataframe and you know the column names for latitude and longitude. 
