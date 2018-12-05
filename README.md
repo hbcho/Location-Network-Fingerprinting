@@ -38,16 +38,17 @@ For each iteration that we undergo the function, we can flatten into a larger li
 
 In our use case, we use gmplot (a Google Maps plotting library) with a default location set to the US. We plot scatter points of the latitudes and longitudes across the map, plot lines between connecting points, and add on small heatmap colors over each scatter point to clarify the location. The html variable is the name of the html file for export, and we can obtain an html file of the coordinates and lines plotted out, i.e. fingerprints on the map. 
  
+
 <b>Required libraries:</b>
 
-Pandas
+pandas
 
-Matplotlib
+matplotlib
 
-Networkx
+networkx
 
-Re
+re
 
-Math
+math
 
-Gmplot 
+gmplot 
